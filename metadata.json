@@ -1,0 +1,6 @@
+{
+  "name": "Maxclean - Premium Cleaning Services",
+  "description": "Professional cleaning services in Paphos, Cyprus by Maxclean with 5-star Google rating, eco-friendly products, and verified care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
